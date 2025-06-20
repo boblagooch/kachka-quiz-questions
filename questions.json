@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "totalQuestions": 6,
+    "lastUpdated": "2024-12-19T00:00:00Z",
+    "version": "1.0",
+    "note": "Kachka Menu Knowledge Questions - Starter Set"
+  },
+  "questions": {
+    "vodka": [
+      {
+        "id": "vodka-ciroc-1",
+        "question": "What makes Ciroc vodka uniquely sweet compared to other vodkas?",
+        "options": ["It's made from snap-frost grapes", "It's triple filtered through diamonds", "It's aged in sugar barrels", "It contains added honey"],
+        "correct": 0,
+        "explanation": "Ciroc is made from snap-frost grapes (Mauzac Blanc and Ugni Blanc), which have higher sugar content, accounting for its sweeter flavor profile.",
+        "difficulty": "easy",
+        "category": "vodka",
+        "menuItem": "Ciroc"
+      },
+      {
+        "id": "vodka-haku-1", 
+        "question": "What base ingredient is Haku vodka made from?",
+        "options": ["Rice", "Wheat", "Potato", "Barley"],
+        "correct": 0,
+        "explanation": "Haku is a Japanese vodka made from 100% Japanese white rice, giving it a soft, clean, and subtly sweet profile.",
+        "difficulty": "medium",
+        "category": "vodka", 
+        "menuItem": "Haku"
+      }
+    ],
+    "wine": [
+      {
+        "id": "wine-qvevri-1",
+        "question": "What traditional winemaking vessel gives Georgian wines their distinctive character?",
+        "options": ["Oak barrels", "Steel tanks", "Qvevri (clay amphora)", "Stone vats"],
+        "correct": 2,
+        "explanation": "Qvevri are large clay amphoras buried underground, used for fermentation and aging. This UNESCO-recognized method dates back 8,000 years.",
+        "difficulty": "medium",
+        "category": "wine",
+        "menuItem": "Georgian Wines"
+      }
+    ],
+    "flights": [
+      {
+        "id": "flights-northern-1",
+        "question": "The 'Northern Neighbors' flight features vodkas from which countries?",
+        "options": ["Finland, Sweden, Iceland", "Norway, Sweden, Denmark", "Russia, Poland, Lithuania", "Canada, Alaska, Greenland"],
+        "correct": 0,
+        "explanation": "Northern Neighbors includes Koskenkorva (Finland), Purity (Sweden), and Reyka (Iceland) - showcasing Nordic vodka traditions.",
+        "difficulty": "easy",
+        "category": "flights",
+        "menuItem": "Northern Neighbors"
+      }
+    ],
+    "beer": [
+      {
+        "id": "beer-rosenstadt-1",
+        "question": "What style of beer is Rosenstadt?",
+        "options": ["Helles Lager", "IPA", "Wheat Beer", "Stout"],
+        "correct": 0,
+        "explanation": "Rosenstadt is a Helles lager - a traditional German-style light, crisp beer perfect for pairing with Eastern European cuisine.",
+        "difficulty": "easy",
+        "category": "beer",
+        "menuItem": "Rosenstadt"
+      }
+    ],
+    "infusions": [
+      {
+        "id": "infusions-horseradish-1",
+        "question": "Which Kachka house infusion is bottled and sold at retail stores?",
+        "options": ["Horseradish", "Sour Cherry", "Birch", "Tarragon"],
+        "correct": 0,
+        "explanation": "Kachka's Horseradish Vodka is bottled and available at retail liquor stores throughout the West Coast.",
+        "difficulty": "easy",
+        "category": "infusions",
+        "menuItem": "Horseradish Vodka"
+      }
+    ],
+    "na": [
+      {
+        "id": "na-rassol-1",
+        "question": "What is 'Rassol' and why is it considered nature's hangover cure?",
+        "options": ["Pickle brine with electrolytes", "Herbal tea", "Fruit juice", "Mineral water"],
+        "correct": 0,
+        "explanation": "Rassol is pickle brine, rich in electrolytes and traditionally used in Eastern Europe as a hangover remedy.",
+        "difficulty": "easy",
+        "category": "na",
+        "menuItem": "Rassol"
+      }
+    ]
+  }
+}
