@@ -509,4 +509,280 @@
       }
     ]
   }
+},
+"wine": [
+     {
+       "id": "wine-q1",
+       "question": "What traditional winemaking vessel gives Georgian wines their distinctive character?",
+       "options": ["Oak barrels", "Steel tanks", "Qvevri", "Stone vats"],
+       "correct": 2,
+       "explanation": "Qvevri are traditional Georgian clay vessels used for fermentation and aging.",
+       "difficulty": "easy",
+       "category": "wine",
+       "menuItem": "Georgian Wines"
+     },
+     {
+       "id": "wine-q2", 
+       "question": "What are qvevri in Georgian winemaking?",
+       "options": ["Large clay pots used for fermenting and aging wine", "Wooden barrels", "Steel tanks", "Stone containers"],
+       "correct": 0,
+       "explanation": "Large clay pots used for fermenting and aging wine, buried in the ground to maintain stable temperatures.",
+       "difficulty": "easy",
+       "category": "wine",
+       "menuItem": "Georgian Wines"
+     },
+     {
+       "id": "wine-q3",
+       "question": "What gives Georgian amber wines their distinctive orange-gold color?",
+       "options": ["Added coloring", "Extended skin contact during fermentation", "Oak aging", "Special grape varieties"],
+       "correct": 1,
+       "explanation": "White grapes fermented with their skins like red wines, creating the amber hue.",
+       "difficulty": "easy",
+       "category": "wine", 
+       "menuItem": "Georgian Amber Wines"
+     },
+     {
+       "id": "wine-q4",
+       "question": "What is the difference between Kakhetian and Imeretian Georgian winemaking methods?",
+       "options": ["Temperature control", "Grape varieties used", "Kakhetian uses all grape skins and stems, Imeretian uses minimal skins", "Fermentation vessels"],
+       "correct": 2,
+       "explanation": "Kakhetian method creates fuller-bodied wines, while Imeretian produces lighter styles.",
+       "difficulty": "hard",
+       "category": "wine",
+       "menuItem": "Georgian Wines"
+     },
+     {
+       "id": "wine-q5",
+       "question": "Which grape variety is Georgia's most important red wine grape?",
+       "options": ["Cabernet Sauvignon", "Saperavi", "Pinot Noir", "Merlot"],
+       "correct": 1,
+       "explanation": "Saperavi is a teinturier grape that produces deeply colored, age-worthy wines.",
+       "difficulty": "medium",
+       "category": "wine",
+       "menuItem": "Georgian Red Wines"
+     },
+     {
+       "id": "wine-q6",
+       "question": "What does 'teinturier' mean in winemaking?",
+       "options": ["A grape with red flesh and skin", "A fermentation technique", "A type of barrel", "A wine style"],
+       "correct": 0,
+       "explanation": "Unlike most grapes that have clear juice, teinturier grapes have colored juice that creates deeply pigmented wines.",
+       "difficulty": "medium",
+       "category": "wine",
+       "menuItem": "Wine Production"
+     },
+     {
+       "id": "wine-q7",
+       "question": "What is Georgia's most planted white wine grape variety?",
+       "options": ["Chardonnay", "Rkatsiteli", "Sauvignon Blanc", "Riesling"],
+       "correct": 1,
+       "explanation": "A versatile grape that can make everything from dry whites to amber wines and is found throughout Georgia's wine regions.",
+       "difficulty": "medium",
+       "category": "wine",
+       "menuItem": "Georgian White Wines"
+     },
+     {
+       "id": "wine-q8",
+       "question": "Which Georgian grape smells so amazing that it's called the 'perfume grape' of the country?",
+       "options": ["Rkatsiteli", "Kisi", "Mtsvane", "Chinuri"],
+       "correct": 1,
+       "explanation": "This ancient variety creates highly perfumed wines with floral and spice notes, often used in premium amber wine production.",
+       "difficulty": "hard",
+       "category": "wine",
+       "menuItem": "Georgian Wines"
+     },
+     {
+       "id": "wine-q9",
+       "question": "Georgia's winemaking tradition is how old according to archaeological evidence?",
+       "options": ["3,000 years", "5,000 years", "8,000 years", "10,000 years"],
+       "correct": 2,
+       "explanation": "Making Georgia one of the world's oldest wine regions, with ancient qvevri and grape seeds found in archaeological sites.",
+       "difficulty": "medium",
+       "category": "wine",
+       "menuItem": "Georgian Wine History"
+     },
+     {
+       "id": "wine-q10",
+       "question": "What does 'orange wine' refer to in natural winemaking?",
+       "options": ["Wine made from oranges", "White wine made with skin contact", "Wine aged in orange barrels", "Wine with orange flavoring"],
+       "correct": 1,
+       "explanation": "The skins give the wine an orange/amber color and more tannins, similar to red wine production.",
+       "difficulty": "easy",
+       "category": "wine",
+       "menuItem": "Orange Wines"
+     },
+     {
+       "id": "wine-q11",
+       "question": "What is the main difference between orange wine and regular white wine production?",
+       "options": ["Different grape varieties", "Orange wine ferments with grape skins, white wine doesn't", "Different temperatures", "Different yeasts"],
+       "correct": 1,
+       "explanation": "Regular white wine separates juice from skins immediately, while orange wine keeps them together.",
+       "difficulty": "easy",
+       "category": "wine",
+       "menuItem": "Wine Production"
+     },
+     {
+       "id": "wine-q12",
+       "question": "What does 'natural wine' typically mean?",
+       "options": ["Wine made with minimal intervention", "Wine made outdoors", "Wine without grapes", "Organic wine only"],
+       "correct": 0,
+       "explanation": "Little to no added sulfites, native yeasts, and minimal filtering or fining.",
+       "difficulty": "medium",
+       "category": "wine",
+       "menuItem": "Natural Wines"
+     },
+     {
+       "id": "wine-q13",
+       "question": "What are sulfites in winemaking?",
+       "options": ["Natural grape sugars", "Preservatives that prevent oxidation and spoilage", "Fermentation byproducts", "Grape tannins"],
+       "correct": 1,
+       "explanation": "Added to many wines to maintain freshness, but natural wines use little to none.",
+       "difficulty": "medium",
+       "category": "wine",
+       "menuItem": "Wine Production"
+     },
+     {
+       "id": "wine-q14",
+       "question": "What are 'native yeasts' in winemaking?",
+       "options": ["Yeasts from the winery's home country", "Wild yeasts that occur naturally on grapes", "Specially bred yeasts", "Imported yeasts"],
+       "correct": 1,
+       "explanation": "Unlike commercial yeasts, these create more unpredictable but often more complex fermentations.",
+       "difficulty": "medium",
+       "category": "wine",
+       "menuItem": "Wine Production"
+     },
+     {
+       "id": "wine-q15",
+       "question": "What is biodynamic winemaking?",
+       "options": ["Using machines for everything", "Farming that follows lunar cycles and uses natural preparations", "Making wine underwater", "Fermenting at high speeds"],
+       "correct": 1,
+       "explanation": "A holistic approach that treats the vineyard as a living ecosystem.",
+       "difficulty": "medium",
+       "category": "wine",
+       "menuItem": "Biodynamic Wines"
+     },
+     {
+       "id": "wine-q16",
+       "question": "What does 'terroir' mean in winemaking?",
+       "options": ["The winemaker's technique", "The complete environment where grapes grow", "The wine's age", "The bottle shape"],
+       "correct": 1,
+       "explanation": "Including soil, climate, elevation, and local conditions that give wine its unique character.",
+       "difficulty": "easy",
+       "category": "wine",
+       "menuItem": "Wine Concepts"
+     },
+     {
+       "id": "wine-q17",
+       "question": "What is the difference between Old World and New World wine regions?",
+       "options": ["Age of the vines", "Old World is traditional European regions, New World is everywhere else", "Price differences", "Bottle colors"],
+       "correct": 1,
+       "explanation": "Old World focuses on terroir and tradition, New World emphasizes fruit and technology.",
+       "difficulty": "easy",
+       "category": "wine",
+       "menuItem": "Wine Regions"
+     },
+     {
+       "id": "wine-q18",
+       "question": "How are Eastern European wines like Georgian and Croatian wines classified in the wine world?",
+       "options": ["New World modern", "Old World with ancient traditions", "Hybrid classification", "Unclassified"],
+       "correct": 1,
+       "explanation": "Despite being lesser known, they have older winemaking histories than many famous European regions.",
+       "difficulty": "medium",
+       "category": "wine",
+       "menuItem": "Eastern European Wines"
+     },
+     {
+       "id": "wine-q19",
+       "question": "What is 'malolactic fermentation' in winemaking?",
+       "options": ["Primary alcohol fermentation", "Converting tart malic acid into softer lactic acid", "Grape crushing process", "Bottling technique"],
+       "correct": 1,
+       "explanation": "This secondary fermentation makes wines smoother and less acidic, often used in red wines and some whites.",
+       "difficulty": "hard",
+       "category": "wine",
+       "menuItem": "Wine Production"
+     },
+     {
+       "id": "wine-q20",
+       "question": "What does it mean when a wine is 'unfiltered'?",
+       "options": ["Made without grapes", "The wine hasn't been clarified before bottling", "Never been aged", "Made without yeast"],
+       "correct": 1,
+       "explanation": "May appear cloudy but retains more flavor compounds and texture than filtered wines.",
+       "difficulty": "easy",
+       "category": "wine",
+       "menuItem": "Wine Production"
+     },
+     {
+       "id": "wine-q21",
+       "question": "What are tannins in wine?",
+       "options": ["Wine's alcohol content", "Compounds from grape skins and seeds that create structure", "Natural wine sugars", "Fermentation bubbles"],
+       "correct": 1,
+       "explanation": "They give wine a dry, astringent feeling in your mouth and help wines age.",
+       "difficulty": "easy",
+       "category": "wine",
+       "menuItem": "Wine Components"
+     },
+     {
+       "id": "wine-q22",
+       "question": "Why do red wines typically have more tannins than white wines?",
+       "options": ["Different grape varieties", "Red wines ferment with grape skins longer", "Higher alcohol content", "Different temperatures"],
+       "correct": 1,
+       "explanation": "The extended skin contact extracts more tannins, while white wines are usually separated from skins quickly.",
+       "difficulty": "easy",
+       "category": "wine",
+       "menuItem": "Wine Production"
+     },
+     {
+       "id": "wine-q23",
+       "question": "What is a 'vintage' in wine terminology?",
+       "options": ["The wine's price", "The year the grapes were harvested", "The winery's age", "The bottle size"],
+       "correct": 1,
+       "explanation": "Each vintage reflects the weather and growing conditions of that specific year.",
+       "difficulty": "easy",
+       "category": "wine",
+       "menuItem": "Wine Terms"
+     },
+     {
+       "id": "wine-q24",
+       "question": "What does 'dry' mean when describing wine?",
+       "options": ["The wine has little to no residual sugar", "The wine is old", "The wine has no water", "The wine is warm"],
+       "correct": 0,
+       "explanation": "All or most of the grape sugars have been converted to alcohol during fermentation.",
+       "difficulty": "easy",
+       "category": "wine",
+       "menuItem": "Wine Terms"
+     },
+     {
+       "id": "wine-q25",
+       "question": "What does 'skin contact' wine have in common with tea brewing?",
+       "options": ["Both use hot water", "Both extract flavor and color from steeping", "Both use leaves", "Both are caffeinated"],
+       "correct": 1,
+       "explanation": "Like tea leaves in hot water, grape skins give wine color, tannins, and flavor the longer they stay in contact.",
+       "difficulty": "easy",
+       "category": "wine",
+       "menuItem": "Wine Production"
+     }
+   ],
+   "wild_fermentation_bonus": [
+     {
+       "id": "wild-fermentation-q1",
+       "question": "What is wild fermentation in winemaking?",
+       "options": ["Fermentation using only naturally occurring yeasts", "Fermentation in the wild", "Fermentation with wild animals", "Uncontrolled fermentation"],
+       "correct": 0,
+       "explanation": "No commercial yeast is added, letting the native microbes on the grapes do the work.",
+       "difficulty": "easy",
+       "category": "wine",
+       "menuItem": "Natural Wine Production"
+     },
+     {
+       "id": "wild-fermentation-q2", 
+       "question": "What are advantages to using wild fermentation when making wine?",
+       "options": ["Faster fermentation", "It creates more complex and unique flavors", "Lower cost", "Easier process"],
+       "correct": 1,
+       "explanation": "Wild yeasts produce more varied compounds, giving wines distinctive character that reflects their specific location.",
+       "difficulty": "medium",
+       "category": "wine",
+       "menuItem": "Natural Wine Production"
+     }
+   ]
+ }
 }
