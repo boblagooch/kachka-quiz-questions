@@ -508,9 +508,8 @@
         "menuItem": "Katla"
       }
     ]
-  }
-},
-"wine": [
+  },
+  "wine": [
      {
        "id": "wine-q1",
        "question": "What traditional winemaking vessel gives Georgian wines their distinctive character?",
@@ -785,4 +784,3 @@
      }
    ]
  }
-}
