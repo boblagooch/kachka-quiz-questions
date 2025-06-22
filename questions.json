@@ -26,8 +26,488 @@
     "difficulty": "hard",
     "category": "vodka",
     "menuItem": "Minke"
+  },
+  {
+    "id": "nemiroff-q1",
+    "question": "How many times is Nemiroff vodka distilled?",
+    "options": ["3 times", "5 times", "7 times", "9 times"],
+    "correct": 2,
+    "explanation": "Nemiroff from Ukraine is distilled 7 times and uses an 11-stage filtration process with silver and platinum.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Nemiroff"
+  },
+  {
+    "id": "beluga-q1",
+    "question": "How long does Beluga Noble rest after distillation?",
+    "options": ["15 days", "30 days", "45 days", "60 days"],
+    "correct": 1,
+    "explanation": "Beluga Noble vodka is extensively rested for 30 days, giving it time to mature and acquire its balanced flavor and aroma.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Beluga Noble"
+  },
+  {
+    "id": "reyka-q1",
+    "question": "What type of water does Reyka vodka use?",
+    "options": ["Spring water", "Glacier water", "Artesian water", "Volcanic spring water"],
+    "correct": 3,
+    "explanation": "Reyka vodka from Iceland uses pure volcanic spring water, contributing to its clean, crisp character.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Reyka"
+  },
+  {
+    "id": "haku-q1",
+    "question": "What does 'Haku' mean in Japanese?",
+    "options": ["Pure", "White", "Clear", "Clean"],
+    "correct": 1,
+    "explanation": "Haku means 'white' in Japanese, referring to the pure white rice used in its production and the pristine character of the vodka.",
+    "difficulty": "hard",
+    "category": "vodka",
+    "menuItem": "Haku"
+  },
+  {
+    "id": "fete-q1",
+    "question": "What distinctive feature does Féte vodka contain?",
+    "options": ["Silver flakes", "24K gold flakes", "Platinum particles", "Diamond dust"],
+    "correct": 1,
+    "explanation": "Féte vodka contains 24K gold flakes, making it a visually striking premium spirit from Oregon.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Féte"
+  },
+  {
+    "id": "zubrovka-q1",
+    "question": "What traditional Polish grass is used in Zubrovka infusion?",
+    "options": ["Sweet grass", "Bison grass", "Prairie grass", "Rye grass"],
+    "correct": 1,
+    "explanation": "Zubrovka is infused with bison grass (Hierochloe odorata), a traditional Polish flavoring that gives a sweet, vanilla-like aroma.",
+    "difficulty": "hard",
+    "category": "vodka",
+    "menuItem": "Zubrovka"
+  },
+  {
+    "id": "ciroc-q2",
+    "question": "How many times is Ciroc vodka distilled?",
+    "options": ["3 times", "4 times", "5 times", "6 times"],
+    "correct": 2,
+    "explanation": "Ciroc is distilled five times - four times in column stills, then a fifth time in traditional copper pot stills similar to cognac production.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Ciroc"
+  },
+  {
+    "id": "minke-q2",
+    "question": "How many times is Minke vodka distilled?",
+    "options": ["3 times", "4 times", "5 times", "6 times"],
+    "correct": 2,
+    "explanation": "Minke vodka is distilled 5 times from whey, creating its signature creamy texture and smooth finish.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Minke"
+  },
+  {
+    "id": "purity-q1",
+    "question": "How many times is Purity vodka distilled?",
+    "options": ["17 times", "24 times", "34 times", "51 times"],
+    "correct": 2,
+    "explanation": "Purity vodka from Sweden is distilled an exceptional 34 times, making it one of the most distilled vodkas in the world.",
+    "difficulty": "hard",
+    "category": "vodka",
+    "menuItem": "Purity"
+  },
+  {
+    "id": "purity-q2",
+    "question": "What type of ingredients does Purity vodka use?",
+    "options": ["Conventional grain", "Organic winter wheat", "Potato", "Spring wheat"],
+    "correct": 1,
+    "explanation": "Purity is made from organic winter wheat and uses sustainable production methods, reflecting Swedish environmental values.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Purity"
+  },
+  {
+    "id": "absolut-elyx-q1",
+    "question": "The Råbelöf estate has been cultivating wheat since which century?",
+    "options": ["13th century", "14th century", "15th century", "16th century"],
+    "correct": 2,
+    "explanation": "The Råbelöf estate in southern Sweden has been cultivating winter wheat since the 1400s (15th century), providing ideal grain for Elyx.",
+    "difficulty": "hard",
+    "category": "vodka",
+    "menuItem": "Absolut Elyx"
+  },
+  {
+    "id": "absolut-elyx-q2",
+    "question": "What special material is used in Absolut Elyx's distillation process?",
+    "options": ["Gold packets", "Silver filters", "Sacrificial copper packets", "Diamond dust"],
+    "correct": 2,
+    "explanation": "Thousands of sacrificial copper packets are used to remove unwanted compounds, contributing to Elyx's rich final product.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Absolut Elyx"
+  },
+  {
+    "id": "absolut-elyx-q3",
+    "question": "How is Absolut Elyx's vintage still operated?",
+    "options": ["Computer controlled", "Entirely by hand", "Semi-automated", "Voice activated"],
+    "correct": 1,
+    "explanation": "The vintage copper still from 1921 is operated entirely by hand using traditional skills, relying on human intuition and feel.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Absolut Elyx"
+  },
+  {
+    "id": "double-cross-q1",
+    "question": "How many times is Double Cross vodka distilled and filtered?",
+    "options": ["5 times each", "6 times each", "7 times each", "8 times each"],
+    "correct": 2,
+    "explanation": "Double Cross is both distilled 7 times and filtered 7 times, creating exceptional smoothness and purity.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Double Cross"
+  },
+  {
+    "id": "double-cross-q2",
+    "question": "What unique filtration material does Double Cross use?",
+    "options": ["Quartz crystal", "Diamond dust", "Volcanic rock", "Silver mesh"],
+    "correct": 1,
+    "explanation": "Double Cross uses diamond dust micro-filters along with activated charcoal and limestone for unprecedented filtration capability.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Double Cross"
+  },
+  {
+    "id": "double-cross-q3",
+    "question": "What water source does Double Cross vodka use?",
+    "options": ["Glacier water", "Spring water", "Tatra Mountain spring water from 200-ft aquifers", "Artesian well water"],
+    "correct": 2,
+    "explanation": "Double Cross uses Tatra Mountain spring water sourced from 200-foot deep aquifers in Slovakia's heart.",
+    "difficulty": "hard",
+    "category": "vodka",
+    "menuItem": "Double Cross"
+  },
+  {
+    "id": "double-cross-q4",
+    "question": "Double Cross bottles feature what cultural element?",
+    "options": ["Czech poetry", "300-year-old Slovakian poetry", "Musical notes", "Mountain imagery"],
+    "correct": 1,
+    "explanation": "Double Cross bottles feature text from a 300-year-old Slovakian poem etched into the glass, emphasizing its cultural heritage.",
+    "difficulty": "hard",
+    "category": "vodka",
+    "menuItem": "Double Cross"
+  },
+  {
+    "id": "polugar-q1",
+    "question": "What was Polugar originally called in Russian history?",
+    "options": ["Little water", "Bread wine", "Grain spirit", "Russian fire"],
+    "correct": 1,
+    "explanation": "Polugar was called 'bread wine' and was the original Russian spirit before modern vodka was invented in the 1870s.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Polugar"
+  },
+  {
+    "id": "polugar-q2",
+    "question": "In what year was Polugar production banned in Russia?",
+    "options": ["1870", "1885", "1895", "1905"],
+    "correct": 2,
+    "explanation": "In 1895, Tsar Alexander III introduced a state monopoly and completely banned Polugar production, destroying all traditional copper pot stills.",
+    "difficulty": "hard",
+    "category": "vodka",
+    "menuItem": "Polugar"
+  },
+  {
+    "id": "polugar-q3",
+    "question": "What unique clarification method does Polugar use?",
+    "options": ["Charcoal filtration", "Fresh egg white and birch coal", "Diamond filtration", "Silver filtration"],
+    "correct": 1,
+    "explanation": "Polugar is clarified using fresh egg white and birch coal, a traditional method used by Russian nobility from the 17th-19th centuries.",
+    "difficulty": "hard",
+    "category": "vodka",
+    "menuItem": "Polugar"
+  },
+  {
+    "id": "polugar-q4",
+    "question": "What does 'Polugar' literally mean in Russian?",
+    "options": ["Pure grain", "Half burned", "Noble spirit", "Bread essence"],
+    "correct": 1,
+    "explanation": "'Polu' means 'half' and 'gar' means 'combustion' - referring to the old method of testing alcohol strength by burning half the liquid.",
+    "difficulty": "hard",
+    "category": "vodka",
+    "menuItem": "Polugar"
+  },
+  {
+    "id": "koskenkorva-q1",
+    "question": "Koskenkorva vodka originates from which Nordic country?",
+    "options": ["Sweden", "Finland", "Norway", "Denmark"],
+    "correct": 1,
+    "explanation": "Koskenkorva is a Finnish vodka known for its Nordic purity and traditional distillation methods.",
+    "difficulty": "easy",
+    "category": "vodka",
+    "menuItem": "Koskenkorva"
+  },
+  {
+    "id": "hven-q1",
+    "question": "What country produces Hven vodka?",
+    "options": ["Norway", "Denmark", "Sweden", "Finland"],
+    "correct": 2,
+    "explanation": "Hven vodka is from Sweden, representing Swedish precision and quality in premium vodka production.",
+    "difficulty": "easy",
+    "category": "vodka",
+    "menuItem": "Hven"
+  },
+  {
+    "id": "fete-q2",
+    "question": "What unique base ingredient does Féte vodka use?",
+    "options": ["Wheat", "Potato", "Sugar cane", "Corn"],
+    "correct": 2,
+    "explanation": "Féte vodka from Eugene, Oregon is made from sugar cane and distilled 3 times, with lava rock water filtration.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Féte"
+  },
+  {
+    "id": "fete-q3",
+    "question": "What type of water filtration does Féte vodka use?",
+    "options": ["Glacier water", "Spring water", "Lava rock water", "Distilled water"],
+    "correct": 2,
+    "explanation": "Féte vodka from Eugene, Oregon uses lava rock water filtration, giving it a distinctive clean character.",
+    "difficulty": "hard",
+    "category": "vodka",
+    "menuItem": "Féte"
+  },
+  {
+    "id": "nemiroff-q2",
+    "question": "What metals are used in Nemiroff's filtration process?",
+    "options": ["Gold and silver", "Silver and platinum", "Platinum and gold", "Copper and silver"],
+    "correct": 1,
+    "explanation": "Nemiroff uses an 11-stage filtration process with silver and platinum, contributing to its exceptional purity.",
+    "difficulty": "hard",
+    "category": "vodka",
+    "menuItem": "Nemiroff"
+  },
+  {
+    "id": "nemiroff-q3",
+    "question": "Where is Nemiroff vodka from?",
+    "options": ["Russia", "Poland", "Ukraine", "Belarus"],
+    "correct": 2,
+    "explanation": "Nemiroff is a premium Ukrainian vodka brand, known for its meticulous distillation and filtration process.",
+    "difficulty": "easy",
+    "category": "vodka",
+    "menuItem": "Nemiroff"
+  },
+  {
+    "id": "minke-q3",
+    "question": "What flavor profile does Minke vodka's whey base contribute?",
+    "options": ["Spicy and bold", "Creamy and smooth", "Citrusy and bright", "Earthy and mineral"],
+    "correct": 1,
+    "explanation": "The whey base gives Minke vodka a distinctive creamy, ocean-inspired character that sets it apart from grain-based vodkas.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Minke"
+  },
+  {
+    "id": "beluga-q2",
+    "question": "What unique filtration material does Beluga Noble use?",
+    "options": ["Diamond dust", "Quartz sand", "Volcanic rock", "Charcoal only"],
+    "correct": 1,
+    "explanation": "Beluga Noble undergoes dual filtration through quartz sand, followed by triple filtration through silver-enriched charcoal.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Beluga Noble"
+  },
+  {
+    "id": "beluga-q3",
+    "question": "What base grain is Beluga Noble made from?",
+    "options": ["Rye", "Nordic winter wheat", "Corn", "Barley"],
+    "correct": 1,
+    "explanation": "Beluga Noble is crafted from Nordic winter wheat, creating its smooth and refined character.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Beluga Noble"
+  },
+  {
+    "id": "reyka-q2",
+    "question": "What unique filtration does Reyka use?",
+    "options": ["Charcoal filtration", "Volcanic rock filtration", "Sand filtration", "Crystal filtration"],
+    "correct": 1,
+    "explanation": "Reyka is filtered through volcanic rock, which removes impurities while maintaining the vodka's character.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Reyka"
+  },
+  {
+    "id": "haku-q2",
+    "question": "What base ingredient is Haku vodka made from?",
+    "options": ["Rice", "Wheat", "Potato", "Barley"],
+    "correct": 0,
+    "explanation": "Haku is a Japanese vodka made from 100% Japanese white rice, giving it a soft, clean, and subtly sweet profile.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Haku"
+  },
+  {
+    "id": "absolut-elyx-q4",
+    "question": "What makes Absolut Elyx unique among vodkas?",
+    "options": ["Made from single estate wheat", "Uses vintage copper still from 1921", "Called 'liquid silk'", "All of the above"],
+    "correct": 3,
+    "explanation": "Absolut Elyx is made from single estate winter wheat, distilled in a vintage copper still from 1921, and known as 'liquid silk' for its smooth texture.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Absolut Elyx"
+  },
+  {
+    "id": "polugar-q5",
+    "question": "How many times is Polugar distilled in copper pot stills?",
+    "options": ["2 times", "3 times", "4 times", "5 times"],
+    "correct": 1,
+    "explanation": "Polugar is triple distilled in copper pot stills reconstructed from 18th-century drawings, preserving traditional methods.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Polugar"
+  },
+  {
+    "id": "kissui-q1",
+    "question": "Kissui vodka originates from which country?",
+    "options": ["China", "Korea", "Japan", "Thailand"],
+    "correct": 2,
+    "explanation": "Kissui is a Japanese vodka, representing Japan's precision and attention to detail in spirit production.",
+    "difficulty": "easy",
+    "category": "vodka",
+    "menuItem": "Kissui"
+  },
+  {
+    "id": "tenjaku-q1",
+    "question": "What country produces Tenjaku vodka?",
+    "options": ["Korea", "Japan", "China", "Thailand"],
+    "correct": 1,
+    "explanation": "Tenjaku is a Japanese vodka that showcases Japan's meticulous approach to vodka craftsmanship.",
+    "difficulty": "easy",
+    "category": "vodka",
+    "menuItem": "Tenjaku"
+  },
+  {
+    "id": "timberline-q1",
+    "question": "Timberline vodka is produced in which area of Oregon?",
+    "options": ["Willamette Valley", "Mt. Hood area", "Coastal Oregon", "Eastern Oregon"],
+    "correct": 1,
+    "explanation": "Timberline is a craft vodka from the Mt. Hood area of Oregon, representing the Pacific Northwest's commitment to quality local distilling.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Timberline"
+  },
+  {
+    "id": "bomond-q1",
+    "question": "What country produces Bomond vodka?",
+    "options": ["Italy", "France", "Spain", "Belgium"],
+    "correct": 1,
+    "explanation": "Bomond is a French vodka that represents France's sophisticated approach to premium spirit production.",
+    "difficulty": "easy",
+    "category": "vodka",
+    "menuItem": "Bomond"
+  },
+  {
+    "id": "jean-marc-xo-q1",
+    "question": "Jean Marc XO vodka is from which country?",
+    "options": ["France", "Italy", "Spain", "Belgium"],
+    "correct": 0,
+    "explanation": "Jean Marc XO is a premium French vodka, with 'XO' traditionally indicating 'Extra Old' quality designation.",
+    "difficulty": "easy",
+    "category": "vodka",
+    "menuItem": "Jean Marc XO"
+  },
+  {
+    "id": "jean-marc-xo-q2",
+    "question": "What does 'XO' traditionally stand for in Jean Marc XO vodka?",
+    "options": ["Extra Old", "Extra Original", "Exclusive Offering", "Extended Oxidation"],
+    "correct": 0,
+    "explanation": "XO stands for 'Extra Old,' a premium designation indicating superior quality and aging in spirits.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Jean Marc XO"
+  },
+  {
+    "id": "ketel-one-q1",
+    "question": "Ketel One vodka originates from which European country?",
+    "options": ["Belgium", "Netherlands", "Germany", "Denmark"],
+    "correct": 1,
+    "explanation": "Ketel One is a Dutch vodka from the Netherlands, known for its smooth character and traditional distillation methods.",
+    "difficulty": "easy",
+    "category": "vodka",
+    "menuItem": "Ketel One"
+  },
+  {
+    "id": "ketel-one-q2",
+    "question": "What does 'Ketel' mean in relation to Ketel One vodka?",
+    "options": ["Kettle/pot still", "Pure", "One", "Dutch"],
+    "correct": 0,
+    "explanation": "Ketel means 'kettle' in Dutch, referring to the traditional copper pot stills used in Ketel One's production process.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Ketel One"
+  },
+  {
+    "id": "nikka-coffey-q1",
+    "question": "What type of still is used to produce Nikka Coffey vodka?",
+    "options": ["Pot still", "Column still", "Coffey still", "Hybrid still"],
+    "correct": 2,
+    "explanation": "Nikka Coffey vodka is distilled using a Coffey still, a type of continuous column still that produces exceptionally smooth spirits.",
+    "difficulty": "hard",
+    "category": "vodka",
+    "menuItem": "Nikka Coffey"
+  },
+  {
+    "id": "nikka-coffey-q2",
+    "question": "Nikka Coffey vodka originates from which country?",
+    "options": ["Scotland", "Ireland", "Japan", "Taiwan"],
+    "correct": 2,
+    "explanation": "Nikka Coffey vodka is from Japan, produced by the renowned Nikka Whisky company using their expertise in distillation.",
+    "difficulty": "easy",
+    "category": "vodka",
+    "menuItem": "Nikka Coffey"
+  },
+  {
+    "id": "quicksilver-q1",
+    "question": "Quicksilver vodka is produced in which U.S. state?",
+    "options": ["Montana", "Wyoming", "Colorado", "Idaho"],
+    "correct": 0,
+    "explanation": "Quicksilver vodka is from Montana, representing American craft distilling in the Rocky Mountain region.",
+    "difficulty": "easy",
+    "category": "vodka",
+    "menuItem": "Quicksilver"
+  },
+  {
+    "id": "stoli-q1",
+    "question": "What does the '100' in Stoli 100 refer to?",
+    "options": ["100 proof", "100% pure", "100th anniversary", "100 botanicals"],
+    "correct": 0,
+    "explanation": "Stoli 100 refers to 100 proof (50% ABV), making it a higher-strength version of the classic Stolichnaya vodka.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Stoli"
+  },
+  {
+    "id": "stoli-q2",
+    "question": "Where are Stoli vodkas currently produced?",
+    "options": ["Russia", "Latvia", "Poland", "Estonia"],
+    "correct": 1,
+    "explanation": "Stoli vodkas are produced in Latvia, following the brand's relocation from Russia to the Baltic region.",
+    "difficulty": "medium",
+    "category": "vodka",
+    "menuItem": "Stoli"
+  },
+  {
+    "id": "katla-q1",
+    "question": "Katla vodka is named after what Icelandic feature?",
+    "options": ["A glacier", "A volcano", "A fjord", "A geyser"],
+    "correct": 1,
+    "explanation": "Katla is named after one of Iceland's most famous volcanoes, reflecting Iceland's dramatic volcanic landscape.",
+    "difficulty": "hard",
+    "category": "vodka",
+    "menuItem": "Katla"
   }
-  // ... continue with all 50 questions
+]
     ]
   }
 }
