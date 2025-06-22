@@ -498,14 +498,15 @@
     "menuItem": "Stoli"
   },
   {
-    "id": "katla-q1",
-    "question": "Katla vodka is named after what Icelandic feature?",
-    "options": ["A glacier", "A volcano", "A fjord", "A geyser"],
-    "correct": 1,
-    "explanation": "Katla is named after one of Iceland's most famous volcanoes, reflecting Iceland's dramatic volcanic landscape.",
-    "difficulty": "hard",
-    "category": "vodka",
-    "menuItem": "Katla"
+       "id": "katla-q1",
+        "question": "Katla vodka is named after what Icelandic feature?",
+        "options": ["A glacier", "A volcano", "A fjord", "A geyser"],
+        "correct": 1,
+        "explanation": "Katla is named after one of Iceland's most famous volcanoes, reflecting Iceland's dramatic volcanic landscape.",
+        "difficulty": "hard",
+        "category": "vodka",
+        "menuItem": "Katla"
+      }
+    ]
   }
-]
-  }
+}
